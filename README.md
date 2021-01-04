@@ -1,4 +1,4 @@
-# Beat Song Browser (deprecated due to new beat saver api, usage at your own rist to be blocked)
+# Beat Song Browser (deprecated due to new beat saver api, usage at your own risk to be blocked)
 + With this tool you can browse your songs in scoresaber via the BSR code
 
 # Usage
