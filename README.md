@@ -1,7 +1,7 @@
 # Beat Song Browser
 + With this tool you can browse your songs in scoresaber via the BSR code
 
-![0.0.2](img/interface_0_0_2.mp4)
+[![0.0.2]](img/interface_0_0_2.mp4)
 
 # Download
 You can download the latest program [HERE](https://github.com/LicensedCrime/Beat-Song-Browser/releases/tag/0.0.2)
