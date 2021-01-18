@@ -4,7 +4,7 @@
 # Download
 You can download the latest program [HERE](https://github.com/LicensedCrime/Beat-Song-Browser/releases/tag/0.0.2)
 
-===
+___
 
 # Usage
 + Enter your code under "BSR Code" and press Enter or hit the "Search" button
@@ -14,14 +14,14 @@ You can download the latest program [HERE](https://github.com/LicensedCrime/Beat
 # Bugs
 + all features
 
-===
+___
 
 # Changelog
 
 ## 0.0.2
 + user agent adjustments
 
-===
+___
 
 # Todo
 + watching for existing custom songs in the base game origin path
