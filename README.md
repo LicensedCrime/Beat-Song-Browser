@@ -22,7 +22,9 @@ ___
 
 ## 0.0.2
 + user agent adjustments
-
+## 0.0.3
++ json parser fix...
++ dealing with empty responses
 ___
 
 # Todo
