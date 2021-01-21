@@ -4,7 +4,7 @@
 ![0.0.2](img/interface_0_0_2.gif)
 
 # Download
-You can download the latest program [HERE](https://github.com/LicensedCrime/Beat-Song-Browser/releases/tag/0.0.2)
+You can download the latest program [HERE](https://github.com/LicensedCrime/Beat-Song-Browser/releases/tag/0.0.3)
 
 ___
 
