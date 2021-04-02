@@ -25,6 +25,8 @@ ___
 ## 0.0.3
 + json parser fix...
 + dealing with empty responses
+## 0.0.4
++ PlaylistMaker added
 ___
 
 # Todo
